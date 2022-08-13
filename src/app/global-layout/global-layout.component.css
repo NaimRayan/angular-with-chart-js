@@ -1,0 +1,24 @@
+
+      .logo img {
+        width: 95px;
+        height: 60px;
+        float: left;
+      }
+
+      .header-menu {
+        line-height: 64px;
+        float: left;
+      }
+
+      .content {
+        display: flex;
+        justify-content: space-between;
+        height: 100%;
+      }
+
+      /* nz-content {
+        background: rgb(174, 174, 174);
+        padding: 24px;
+        min-height: 280px;
+      } */
+    
